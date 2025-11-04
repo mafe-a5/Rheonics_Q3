@@ -1,4 +1,4 @@
 ﻿# Rheonics Question 3
 ## 📸 Screenshots
 
-![Flutter mobile](lib/ss.png)
+![Flutter mobile](challenge/lib/ss.png)
